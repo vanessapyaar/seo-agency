@@ -3224,8 +3224,6 @@ html[xmlns] .slider-wrap {
 
 	#header.transparent-header.semi-transparent #header-wrap { background-color: rgba(255,255,255,0.8); }
 
-	#header.transparent-header.floating-header { margin-top: 60px; }
-
 	.transparent-header.floating-header .container {
 		background-color: #FFF;
 		padding: 0 30px;
@@ -3251,11 +3249,11 @@ html[xmlns] .slider-wrap {
 	}
 
 	#header.header-size-lg + .include-header {
-		margin-top: calc( -120px - 2px );
+		margin-top: calc( -195px - 2px );
 	}
 
 	#header.floating-header + .include-header {
-		margin-top: calc( -160px - 2px );
+		margin-top: calc( -195px - 2px );
 	}
 
 	#header.transparent-header + .page-title-parallax.include-header .container {
@@ -16790,5 +16788,4 @@ label.checkbox { padding-left: 20px; }
 	-webkit-animation-name: fadeOutUpSmall;
 	animation-name: fadeOutUpSmall;
 }
-
 
