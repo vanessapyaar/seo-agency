@@ -16789,3 +16789,10 @@ label.checkbox { padding-left: 20px; }
 	animation-name: fadeOutUpSmall;
 }
 
+.button {
+    border-radius: 100px !important;
+}
+
+#oc-clients .oc-item img {
+    height: 40px !important;
+}
