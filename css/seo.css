@@ -214,8 +214,8 @@ input.switch-toggle-round + label::after { border-radius: 4px }
 }
 
 .badge.badge-default {
-	border: 1px solid var(--themecolor, #fE9603);
-	color: var(--themecolor, #fE9603);
+	border: 1px solid var(--themecolor, #FF006E);
+	color: var(--themecolor, #FF006E);
 }
 
 /* Testimonials Carousel
